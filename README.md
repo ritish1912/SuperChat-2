@@ -1,7 +1,7 @@
 # `SuperChat-2`
-A MERN stack chat application that enables different users to communicate with each other at real-time sync. Its frontend is developed using `React` , for backend it uses `Node and Express` . `Socket.io` is used for real time sync in converstaion and for `MongoDB` is used for database.
+A MERN stack chat application that enables different users to communicate with each other at real-time sync. Its frontend is developed using `React` , for backend it uses `Node and Express` . `Socket.io` is used for real time sync in converstaion and  `MongoDB` is used for database.
 
-### 'Features'
+### `Features`
 - The user can register if not registered already on the app otherwise can directly just sign in.
 - The user gets to choose among different avatars as to what would they like for their profile.
 - Users can easily communicate with ech other in realtime.
