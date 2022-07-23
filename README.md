@@ -3,7 +3,7 @@ A `MERN stack` chat application that enables different users to communicate with
 
 ### `Features`
 - The user can register if not registered already on the app otherwise can directly just sign in.
- - The user gets to choose among different avatars as to what would they like for their profile.
+ - The user gets to choose among different avatars as to what would they like for their profile picture.
  - Users can easily communicate with each other in realtime.
 
 ### `Screenshots`
